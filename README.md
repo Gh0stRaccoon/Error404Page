@@ -1,6 +1,6 @@
 # Error 404!
 
-Este es el primer primer proyecto para mi portafolio. Es un diseño de la página de error 404. Primero utilicé Figma para el maquetado visual, posteriormente lo pasé a HTML y CSS para finalmente pasarlo a React utilizando la herramienta create-react-app. Para el manejo de rutas utilicé react-router-dom.
+Este es el primer primer proyecto para mi portafolio. Es un diseño de la página de error 404. Primero utilicé Figma para el maquetado visual, posteriormente lo pasé a HTML y CSS para finalmente lo pasé a React utilizando la herramienta create-react-app. Para el manejo de rutas utilicé react-router-dom.
 
 <details>
     <summary>English</summary>
